@@ -23,6 +23,7 @@ def main(amount, video_id):
                 'https://api16-core-c-useast1a.tiktokv.com/aweme/v1/aweme/stats/?ac=WIFI&op_region='
                 'SE&app_skin=white&', data=data, headers=headers
       )
+      print('Sharing...')
   except Exception as e:
       print(f'Error: {e}')
   
