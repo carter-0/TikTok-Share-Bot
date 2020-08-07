@@ -1,6 +1,8 @@
 # TikTok-Share-Bot
 Python Script to increase the amount of shares on any post (Working 8th Aug, 2020)
 
+Modified version of https://github.com/zoony1337/TikTok-Shares-Botter
+
 # Usage
 
 * Requires `requests`
@@ -10,10 +12,6 @@ Python Script to increase the amount of shares on any post (Working 8th Aug, 202
 1. Clone this Repo
 2. Run `main.py`
 3. Follow the instructions
-
-
-
-modified version of https://github.com/zoony1337/TikTok-Shares-Botter
 
 # Legal Notice
 
