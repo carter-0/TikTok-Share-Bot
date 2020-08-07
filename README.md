@@ -7,6 +7,7 @@ Modified version of https://github.com/zoony1337/TikTok-Shares-Botter
 
 * Requires `requests`
 * Python 3.4+
+* URL must be formatted as https://www.tiktok.com/@username/video/123456789123456
 
 
 1. Clone this Repo
