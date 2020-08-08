@@ -1,4 +1,4 @@
-# TikTok-Share-Bot [PATCHED]
+# TikTok-Share-Bot [DOES NOT WORK]
 Python Script to increase the amount of shares on any post (Not Working - Patched by TikTok)
 
 Modified version of https://github.com/zoony1337/TikTok-Shares-Botter
